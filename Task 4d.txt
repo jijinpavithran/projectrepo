@@ -1,0 +1,2 @@
+This file is added into 'collaborator' branch as part of Full Stack Development with AI NUS Module 2: Week 2: Required Assignment
+Task 4d) Create a new branch named collaborator update in the remote repository by pushing a new commit to it.
